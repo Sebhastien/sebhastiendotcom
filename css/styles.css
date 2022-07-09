@@ -1,0 +1,16 @@
+.topnav {
+  overflow: hidden;
+}
+
+.nav-link {
+  padding: 10px 12px;
+  text-decoration: none;
+  font-size: 18px;
+  color: black;
+  text-align: center;
+  float: left;
+}
+
+.nav-link:hover {
+  background-color: #ddd;
+}
